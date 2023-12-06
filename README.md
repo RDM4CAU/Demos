@@ -1,2 +1,4 @@
 # TestModules
-For testing learning modules
+The Repo contains learning modules for testing.
+
+ONLY for testing!
