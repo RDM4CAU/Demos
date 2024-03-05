@@ -1,4 +1,3 @@
-# TestModules
-The Repo contains learning modules for testing.
-
-ONLY for testing!
+# Demos
+The Repo contains presentations and demos of learning modules for testing.
+Learnings modules are not finalized, ONLY for testing!
