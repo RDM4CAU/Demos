@@ -158,7 +158,7 @@ logo: https://www.uni-kiel.de/ps/cgi-bin/logos/files/cau/norm-de/cau-norm-de-bla
   * Erwerb berufsbezogener Kompetenzen (Arbeit in Schulen, Archiven, Bibliotheken und Forschungseinrichtungen)
 
 **Durchgeführt**: WS 22/23
-**Prüfungsleistungen**: Inhaltliche Entwicklung und technische Umsetzung eines digitalen Lernmoduls in LiaScript zu einem selbstgewählten Thema aus dem Bereich "FDM" oder "Digital Literacy"
+**Prüfungsleistungen**: Inhaltliche Entwicklung und technische Umsetzung eines digitalen Lernmoduls in LiaScript zu einem selbstgewählten Thema aus dem Bereich "FDM" oder "Digital Literacy" plus einer kurzen schriftlichen Stellungnahme zum Arbeits- und Forschungsprozess.
 
 ******************
 
@@ -179,7 +179,7 @@ logo: https://www.uni-kiel.de/ps/cgi-bin/logos/files/cau/norm-de/cau-norm-de-bla
 
 **Lernmodule der Studierenden**
 
-* kollaboLratives Arbeiten
+* kollaboratives Arbeiten
 * Umgang mit KI
 * Digitale Literaturrecherche
 * Dateiformate verstehen
