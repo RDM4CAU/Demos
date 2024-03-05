@@ -177,6 +177,19 @@ logo: https://www.uni-kiel.de/ps/cgi-bin/logos/files/cau/norm-de/cau-norm-de-bla
 {{3}}
 ******************
 
+**Bausteine**
+
+* kollaboratives Arbeiten
+* Umgang mit KI
+* Literaturrecherche
+* Dateiformate verstehen
+* OER-Materialien
+
+******************
+
+{{4}}
+******************
+
 -> Werfen wir einen kurzen Blick auf eine schöne Arbeit einer Studierenden:
 
 [Jessika Stiefken: Digitale Literaturrecherche](https://liascript.github.io/course/?https://raw.githubusercontent.com/RDM4CAU/TestModules/main/literaturrecherche/digitaleliteraturrecherche.md#1)
