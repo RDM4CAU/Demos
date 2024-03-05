@@ -177,11 +177,11 @@ logo: https://www.uni-kiel.de/ps/cgi-bin/logos/files/cau/norm-de/cau-norm-de-bla
 {{3}}
 ******************
 
-**Bausteine**
+**Lernmodule der Studierenden**
 
-* kollaboratives Arbeiten
+* kollaboLratives Arbeiten
 * Umgang mit KI
-* Literaturrecherche
+* Digitale Literaturrecherche
 * Dateiformate verstehen
 * OER-Materialien
 
