@@ -196,6 +196,14 @@ logo: https://www.uni-kiel.de/ps/cgi-bin/logos/files/cau/norm-de/cau-norm-de-bla
 
 ******************
 
+# Abschluss des Seminars
+
+> Kurzpräsentationen zeigten hohes Reflexionsniveau, vertiefte Methodenkenntnisse und Freude am Umgang mit den Tools.
+
+> Interesse und Bereitschaft der Studierenden sich mit Technologien und Seminarformaten abseits des Standards zu beschäftigen, ist hoch.
+
+
+
 # Ausblick
 
 >* Weiterentwicklung von vorhandenen Bausteinen
