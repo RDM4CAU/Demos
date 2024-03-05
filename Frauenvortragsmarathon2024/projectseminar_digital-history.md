@@ -204,9 +204,15 @@ logo: https://www.uni-kiel.de/ps/cgi-bin/logos/files/cau/norm-de/cau-norm-de-bla
 
 
 
-# Ausblick
+# Ausblick zum Lehrformat 
 
->* Weiterentwicklung von vorhandenen Bausteinen
+> Lehrformat: Interdisziplinäre und digitale Lehrangebote sind sehr aufwändig in der Vorbereitung, aber wir haben ein positives Feedback erhalten, so dass wir auch in der Zukunft interdisziplinäre Lehrangebote machen.
+
+> Publikation: Beitrag zum Konzept des Projektseminars, zu den Erfahrungen und Zielen, insbesondere digitale Kompetenzen mit fachwissenschaftlichen Methoden und Inhalten zu verknüpfen und zu vermitteln.
+
+# Ausblick zum Projekt
+
+>  Weiterentwicklung von vorhandenen Bausteinen
 >
 >* Veröffentlichung 
 >
