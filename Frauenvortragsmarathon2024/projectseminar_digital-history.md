@@ -198,15 +198,19 @@ logo: https://www.uni-kiel.de/ps/cgi-bin/logos/files/cau/norm-de/cau-norm-de-bla
 
 {{1}}
 ******************
-![Olatkurs](../Frauenvortragsmarathon2024/images/olat_digital-literacy.png)
+![Olatkurs](https://github.com/RDM4CAU/Demos/raw/main/Frauenvortragsmarathon2024/images/olat_digital-literacy.png)
 ******************
 
 ## Kursübersicht
 
-[Kursplan 1](https://github.com/RDM4CAU/Demos/blob/main/Frauenvortragsmarathon2024/images/Kursuebersicht_Projektseminar1.png)
-
-[Kursplan 2](https://github.com/RDM4CAU/Demos/blob/main/Frauenvortragsmarathon2024/images/Kursuebersicht_Projektseminar2.png)
-
+<div style="display: flex;">
+    <div style="float:left; width: 50%;">
+        <p>![Kursplan 1](https://github.com/RDM4CAU/Demos/raw/main/Frauenvortragsmarathon2024/images/Kursuebersicht_Projektseminar1.png)</p>
+    </div>
+    <div style="float:right; width: 50%;">
+        <p>![Kursplan 2](https://github.com/RDM4CAU/Demos/raw/main/Frauenvortragsmarathon2024/images/Kursuebersicht_Projektseminar2.png)</p>
+    </div>
+</div>
 
 ## Lernmodule der Studierenden
 {{0-1}}
