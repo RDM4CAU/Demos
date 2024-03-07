@@ -162,8 +162,10 @@ logo: https://www.uni-kiel.de/ps/cgi-bin/logos/files/cau/norm-de/cau-norm-de-bla
 ******************
 
 ## Einsatz digitaler Tools
+{{0-1}}
+******************
 
-<!-- style="width: 90%;background-color: lightblue;"-->
+<!-- style="width: 70%;background-color: lightblue;"-->
 ``` ascii
  .----------------------------------------------------.
  | Digitale Tools im Projektseminar                   |
@@ -192,12 +194,16 @@ logo: https://www.uni-kiel.de/ps/cgi-bin/logos/files/cau/norm-de/cau-norm-de-bla
  '----------------------------------------------------'
 ```
 
+******************
+
+{{1}}
+******************
+![Kursübersicht](Frauenvortragsmarathon2024/images/olat_digital-literacy.png)
+******************
 
 ## Kursplan
 
-![Bild](../images/Kursuebersicht_Projektseminar1.png)
-
-![Bild](../images/Kursuebersicht_Projektseminar2.png)
+[Kursplan](Frauenvortragsmarathon2024/images/kursplan1.png)
 
 ## Lernmodule der Studierenden
 {{0-1}}
@@ -248,7 +254,8 @@ https://www.wissenschaftliche-weiterbildung-uni-kiel.de/kurssuche/kurs/Nachhalti
 
 Besonderer Dank an unsere Projekt- und Kooperationspartner*innen 🤗
 
-* André Dietrich & Sebastian Zug
+* André Dietrich & Sebastian Zug (TU Freiberg, [LiaScript](https://liascript.github.io/))
+* [CloudLab-Team der CAU](https://cloudlab.rz.uni-kiel.de/)
 * Prof. Dr. Nicola Fohrer & Dr. Georg Hörmann, Institute for Natural Resource Conservation
 * Prof. Martina Gerken & Michael Meisser, Department of Electrical and Information Engineering
 * Gregor Große-Bölting, Department of Computer Science
