@@ -205,7 +205,7 @@ logo: https://www.uni-kiel.de/ps/cgi-bin/logos/files/cau/norm-de/cau-norm-de-bla
 
 <div style="display: flex;">
     <div style="float:left; width: 50%;">
-        <p>![Kursplan 1](https://github.com/RDM4CAU/Demos/raw/main/Frauenvortragsmarathon2024/images/Kursuebersicht_Projektseminar1.png)</p>
+        <p>![Kursplan 1](https://github.com/RDM4CAU/Demos/raw/main/Frauenvortragsmarathon2024/images/kursplan1.png)</p>
     </div>
     <div style="float:right; width: 50%;">
         <p>![Kursplan 2](https://github.com/RDM4CAU/Demos/raw/main/Frauenvortragsmarathon2024/images/Kursuebersicht_Projektseminar2.png)</p>
