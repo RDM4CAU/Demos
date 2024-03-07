@@ -12,7 +12,7 @@ comment: Präsentation des Projektseminars Digital Literacy – Zu den Methoden,
 licence: cc-by
 
 
-logo: https://www.uni-kiel.de/ps/cgi-bin/logos/files/cau/norm-de/cau-norm-de-blacklila-rgb-0720.png
+logo: https://github.com/RDM4CAU/Demos/blob/raw/Frauenvortragsmarathon2024/images/cau-norm-en-lilagrey-rgb.png
 
 
 @style
