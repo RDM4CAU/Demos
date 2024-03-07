@@ -251,9 +251,8 @@ Im Projektseminar sind Arbeiten zu den folgenden Themen entstanden:
 
 > **Publikation**: Derzeit Abstimmungen über Publikationsorte, Bereitstellung über verschiedene Publikationskanäle geplant.
 
-> **Weitergabe von Wissen & Erfahungen**: Beiträge, z. B. auf dem Frauenvortragsmarathon der CAU, Durchführung von Workshops an der Wissenschaftlichen Weiterbildung: 
-
-https://www.wissenschaftliche-weiterbildung-uni-kiel.de/kurssuche/kurs/Nachhaltige+Open+Educational+Resources+mit+LiaScript+Einstieg/F241049
+> **Weitergabe von Wissen & Erfahungen**: Beiträge, z. B. auf dem Frauenvortragsmarathon der CAU, Durchführung von LiaScript Workshops an der Wissenschaftlichen Weiterbildung: 
+>[Nachhaltige Open Educational Resources mit LiaScript (Einstieg)](https://www.wissenschaftliche-weiterbildung-uni-kiel.de/kurssuche/kurs/Nachhaltige+Open+Educational+Resources+mit+LiaScript+Einstieg/F241049)
 
 # Herzlichen Dank
 
@@ -279,6 +278,3 @@ Besonderer Dank an unsere Projekt- und Kooperationspartner*innen 🤗
 * Cleo Michelsen 
 * Semih Acis
 * Caroline Beckmann
-
-
-[def]: https://github.com/RDM4CAU/Demos/blob/main/Frauenvortragsmarathon2024/images/kursplan1.png
