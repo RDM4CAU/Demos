@@ -138,15 +138,14 @@ logo: https://www.uni-kiel.de/ps/cgi-bin/logos/files/cau/norm-de/cau-norm-de-bla
 <div style="page-break-after: always;"></div>
 
 
-## Projektseminar zur Geschichte der Neuzeit
+# Projektseminar zur Geschichte der Neuzeit
 
-> Projektseminar zur Geschichte der Neuzeit: Digital Literacy – 
->
-> Zu den Methoden, Kompetenzen und Skills der Digital History (Wintersemester 2022/23) 
->
-> -> [Blick ins Univis](https://univis.uni-kiel.de/form?__s=2&dsc=anew/lecture_view&lvs=philos/histor/zentr/projek_1&anonymous=1&ref=tlecture&sem=2022w&tdir=philos/fachwi/histor/projek&__e=786)
+{{0-1}}
+******************
+<iframe src="https://univis.uni-kiel.de/form?__s=2&dsc=anew/lecture_view&lvs=philos/histor/zentr/projek_1&anonymous=1&ref=tlecture&sem=2022w&tdir=philos/fachwi/histor/projek&__e=786" style="border:0px;width:100%;height:500px" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"></iframe>
+******************
 
-{{1-2}}
+{{1}}
 ******************
 
 * **Veranstaltungsformat**: Projektseminar im Masterstudiengang
@@ -162,38 +161,63 @@ logo: https://www.uni-kiel.de/ps/cgi-bin/logos/files/cau/norm-de/cau-norm-de-bla
 
 ******************
 
-{{2-3}}
+## Einsatz digitaler Tools
+
+<!-- style="width: 90%;background-color: lightblue;"-->
+``` ascii
+ .----------------------------------------------------.
+ | Digitale Tools im Projektseminar                   |
+ |----------------------------------------------------|
+ |.--------.                                          |
+ ||OpenOlat|--> Zentrale Lernplattform                |
+ |'--------'                                          |
+ |     |           Kursplan, Materialien, Zugang zu   |
+ |     |           CloudLab & digitalem Arbeitsraum   |
+ |     V                                              |
+ |.--------.                                          |
+ ||CloudLab|--> Virtuelle Arbeitsumgebung             |
+ |'--------'                                          |
+ |     |          Zugang via Olat                     |
+ |     |          einheitliche Arbeitsumgebung        |
+ |     V          resourcenunabhängiges Arbeiten      |
+ |.--------.                                          |
+ || VSCode |--> Quellcodeeditor                       |
+ |'--------'    .---------.                           |
+ |     |        |LiaScript|                           |
+ |     |        '---------'                           |
+ |     V        Verknüpfung mit CAUGitLab             |
+ |.---------.                                         |
+ ||CAUGitLab|--> Versionierung, Sicherung, Abgabe     |
+ |'---------'                                         |
+ '----------------------------------------------------'
+```
+
+
+## Kursplan
+
+![Bild](../images/Kursuebersicht_Projektseminar1.png)
+
+![Bild](../images/Kursuebersicht_Projektseminar2.png)
+
+## Lernmodule der Studierenden
+{{0-1}}
 ******************
-
-**Course overview**
-
-![Bild](images\Kursuebersicht_Projektseminar1.png)
-
-![Bild](images\Kursuebersicht_Projektseminar2.png)
-
-
-******************
-
-{{3}}
-******************
-
-**Lernmodule der Studierenden**
+Im Projektseminar sind Arbeiten zu den folgenden Themen entstanden:
 
 * kollaboratives Arbeiten
 * Umgang mit KI
 * Digitale Literaturrecherche
 * Dateiformate verstehen
 * OER-Materialien
-
 ******************
 
-{{4}}
+{{1}}
 ******************
+> Werfen wir einen kurzen Blick auf eine besonders schöne Arbeit einer Studierenden: 
+>
+>**Jessika Stiefken: Digitale Literaturrecherche**
 
--> Werfen wir einen kurzen Blick auf eine schöne Arbeit einer Studierenden:
-
-[Jessika Stiefken: Digitale Literaturrecherche](https://liascript.github.io/course/?https://raw.githubusercontent.com/RDM4CAU/TestModules/main/literaturrecherche/digitaleliteraturrecherche.md#1)
-
+<iframe src="https://liascript.github.io/course/?https://raw.githubusercontent.com/RDM4CAU/TestModules/main/literaturrecherche/digitaleliteraturrecherche.md#1" style="border:0px;width:100%;height:500px" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"></iframe>
 ******************
 
 # Abschluss des Seminars
@@ -202,18 +226,41 @@ logo: https://www.uni-kiel.de/ps/cgi-bin/logos/files/cau/norm-de/cau-norm-de-bla
 
 > Interesse und Bereitschaft der Studierenden sich mit Technologien und Seminarformaten abseits des Standards zu beschäftigen, ist hoch.
 
-
-
 # Ausblick zum Lehrformat 
 
-> Lehrformat: Interdisziplinäre und digitale Lehrangebote sind sehr aufwändig in der Vorbereitung, aber wir haben ein positives Feedback erhalten, so dass wir auch in der Zukunft interdisziplinäre Lehrangebote machen.
+> **Lehrformat**: Interdisziplinäre und digitale Lehrangebote sind sehr aufwändig in der Vorbereitung, aber wir haben ein positives Feedback erhalten, so dass wir auch in der Zukunft interdisziplinäre Lehrangebote machen.
 
-> Publikation: Beitrag zum Konzept des Projektseminars, zu den Erfahrungen und Zielen, insbesondere digitale Kompetenzen mit fachwissenschaftlichen Methoden und Inhalten zu verknüpfen und zu vermitteln.
+> **Publikation**: Beitrag zum Konzept des Projektseminars, zu den Erfahrungen und Zielen, insbesondere digitale Kompetenzen mit fachwissenschaftlichen Methoden und Inhalten zu verknüpfen und zu vermitteln.
 
-# Ausblick zum Projekt
+# Weiterer Ausblick
 
->  Weiterentwicklung von vorhandenen Bausteinen
->
->* Veröffentlichung 
->
->*...
+> **Materialien**: Aufbereitung/Weiterentwicklung vorhandener Materialien sowie Entwicklung neuer Materialien 
+
+> **Publikation**: Derzeit Abstimmungen über Publikationsorte, Bereitstellung über verschiedene Publikationskanäle geplant.
+
+> **Weitergabe von Wissen & Erfahungen**: Beiträge, z. B. auf dem Frauenvortragsmarathon der CAU, Durchführung von Workshops an der Wissenschaftlichen Weiterbildung: 
+
+https://www.wissenschaftliche-weiterbildung-uni-kiel.de/kurssuche/kurs/Nachhaltige+Open+Educational+Resources+mit+LiaScript+Einstieg/F241049
+
+# Herzlichen Dank
+
+> **Vielen Dank für die Aufmerksamkeit!**
+
+Besonderer Dank an unsere Projekt- und Kooperationspartner*innen 🤗
+
+* André Dietrich & Sebastian Zug
+* Prof. Dr. Nicola Fohrer & Dr. Georg Hörmann, Institute for Natural Resource Conservation
+* Prof. Martina Gerken & Michael Meisser, Department of Electrical and Information Engineering
+* Gregor Große-Bölting, Department of Computer Science
+* Johannes Labrenz, Life Sciences
+* Dr. Stefan Kratzenstein, Institute for Sports Science
+* Prof. Dr. Oliver Nakoinz, Pre- and Protohistoric Archaeology
+* Thilo Paul-Stüve, Central RDM
+* Markus Alber, elk.Medien
+* Andreas Christ, Central RDM
+* Richard Diebel, Library/German 
+
+**Beteiligte Studierende**:
+
+* Cleo Michelsen 
+* Semih Acis 
