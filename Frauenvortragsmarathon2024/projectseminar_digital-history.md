@@ -198,7 +198,7 @@ logo: https://www.uni-kiel.de/ps/cgi-bin/logos/files/cau/norm-de/cau-norm-de-bla
 
 {{1}}
 ******************
-![Kursübersicht](Frauenvortragsmarathon2024/images/olat_digital-literacy.png)
+![Olatkurs](../Frauenvortragsmarathon2024/images/olat_digital-literacy.png)
 ******************
 
 ## Kursübersicht
