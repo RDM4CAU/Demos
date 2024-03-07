@@ -201,9 +201,12 @@ logo: https://www.uni-kiel.de/ps/cgi-bin/logos/files/cau/norm-de/cau-norm-de-bla
 ![Kursübersicht](Frauenvortragsmarathon2024/images/olat_digital-literacy.png)
 ******************
 
-## Kursplan
+## Kursübersicht
 
-[Kursplan](Frauenvortragsmarathon2024/images/kursplan1.png)
+[Kursplan 1](https://github.com/RDM4CAU/Demos/blob/main/Frauenvortragsmarathon2024/images/Kursuebersicht_Projektseminar1.png)
+
+[Kursplan 2](https://github.com/RDM4CAU/Demos/blob/main/Frauenvortragsmarathon2024/images/Kursuebersicht_Projektseminar2.png)
+
 
 ## Lernmodule der Studierenden
 {{0-1}}
@@ -272,3 +275,6 @@ Besonderer Dank an unsere Projekt- und Kooperationspartner*innen 🤗
 * Cleo Michelsen 
 * Semih Acis
 * Caroline Beckmann
+
+
+[def]: https://github.com/RDM4CAU/Demos/blob/main/Frauenvortragsmarathon2024/images/kursplan1.png
