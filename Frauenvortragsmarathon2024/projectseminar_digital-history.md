@@ -263,4 +263,5 @@ Besonderer Dank an unsere Projekt- und Kooperationspartner*innen 🤗
 **Beteiligte Studierende**:
 
 * Cleo Michelsen 
-* Semih Acis 
+* Semih Acis
+* Caroline Beckmann
