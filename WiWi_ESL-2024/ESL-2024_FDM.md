@@ -35,7 +35,12 @@ logo: https://github.com/RDM4CAU/Demos/raw/main/Frauenvortragsmarathon2024/image
 >
 > ***Britta Petersen***, [Zentrales Forschungsdatenmanagement](https://www.datamanagement.uni-kiel.de/de)
 >
-> TinyURL zu dieser Präsentation: 
+> TinyURL zu dieser Präsentation: https://tinyurl.com/FDM-ESL-2024
+>
+
+<div style="float:right; width:25%;">
+  <img src="../WiWi_ESL-2024/images/FDM-ESL-2024-400.png" alt="qr presentation">
+</div>
 
 <div style="page-break-after: always;"></div>
 
@@ -231,19 +236,17 @@ Daten langfristig und personenunabhängig zugänglich, nachnutzbar und nachprüf
 
 # Nutzen von FDM 🧚‍♀️
 
-Gutes Forschungsdatenmanagement gilt als ein Teil **~~guter wissenschaftlicher Praxis~~ (GWP)**. Inwiefern kann FDM zu GWP beitragen? Welchen Nutzen kann ein gutes Forschungsdatenmanagement darüber hinaus haben?
-
 {{1}}
 ********************************************************************************
 >**Gutes Forschungsdatenmanagement trägt bei zu...**
 >
 > - Reproduzierbarkeit von Ergebnissen (GWP)
 > - Rückverfolgbarkeit und Transparenz der Forschung (GWP)
-> - gute Auffindbarkeit von Daten, z. B. durch aussagekräftige Benennung und beschreibende Metadaten
 > - Wissenserhalt – Daten sollen unabhängig von einzelnen Menschen, Projekten oder Institutionen zugänglich sein (GWP)
 > - Erleichterung der Zusammenarbeit
 > - Vorbeugung von Datenverlusten
 > - Schonung von Resourcen
+> - Auffindbarkeit von Daten, z. B. durch aussagekräftige Benennung und beschreibende Metadaten
 > - Transfer und Nachnutzung der Daten in zukünftigen Projekte
 > - Erhöhung der Sichtbarkeit der eigenen Arbeit durch Forschungsdatenzitation
 > - Erfüllung von Auflagen der Drittmittelgeber
