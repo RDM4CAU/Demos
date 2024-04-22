@@ -15,8 +15,8 @@ icon: ../WiWi_ESL-2024/images/cau-norm-en-lilagrey-rgb.png
 @style
 
 .lia-slide__container {
-    background-image: url("https://github.com/RDM4CAU/Demos/raw/main/Frauenvortragsmarathon2024/images/cau-norm-en-lilagrey-rgb.png");
-    background-size: 15%;
+    background-image: url("https://github.com/RDM4CAU/Demos/raw/main/WiWi_ESL-2024/images/rdmCAU.png");
+    background-size: 10%;
     background-repeat: no-repeat;
     background-position: right top;
     opacity: 1;
