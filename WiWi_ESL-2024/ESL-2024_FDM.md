@@ -382,8 +382,8 @@ Daten langfristig und personenunabhängig zugänglich, nachnutzbar und nachprüf
 **Beispiel für eine Ordnerstruktur**
 
 <center>
-  <img src="../WiWi_ESL-2024/images/Abb_OrdnerstrukturArchproject_2022_bp.png" width="80%" alt="example folder hirarchy">
-    <sub style="text-align: right";">Provided by Oliver Nakoinz</sub>
+  <img src="../WiWi_ESL-2024/images/Abb_OrdnerstrukturArchproject_2022_bp.png" width="80%" height="80%" alt="example folder hirarchy">
+    <sub style="text-align: right">Provided by Oliver Nakoinz</sub>
 </center>
 
 ********************************************************************************
