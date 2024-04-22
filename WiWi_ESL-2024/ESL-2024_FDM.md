@@ -37,7 +37,7 @@ icon: ../WiWi_ESL-2024/images/cau-norm-en-lilagrey-rgb.png
 >
 > TinyURL zu dieser Präsentation: https://tinyurl.com/FDM-ESL-2024
 >
-
+>
 <div style="float:right; width:25%;">
   <img src="../WiWi_ESL-2024/images/FDM-ESL-2024-400.png" alt="qr presentation">
 </div>
