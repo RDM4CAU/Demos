@@ -280,14 +280,14 @@ Daten langfristig und personenunabhängig zugänglich, nachnutzbar und nachprüf
 
 ### Allgemeine Hinweise
 
-{{1}}
+{{0-3}}
 ********************************************************************************
 
 - **Rohdaten niemals anfassen! Bewahren Sie Ihre Rohdaten immer unverändert in einem separaten Ordner auf!**
 
 ********************************************************************************
 
-{{2}}
+{{1-3}}
 ********************************************************************************
 - Versuchen Sie, "sprechende" Bezeichnungen für Ordner und Dateien zu finden ➞ keine "Fantasienamen" 🦄, keine zufälligen Zeichenfolgen
 
@@ -303,7 +303,7 @@ Daten langfristig und personenunabhängig zugänglich, nachnutzbar und nachprüf
 
 ********************************************************************************
 
-{{3}}
+{{2-3}}
 ********************************************************************************
 - Befolgen Sie [***ISO 8601***](https://en.wikipedia.org/wiki/ISO_8601) für Daten und Zeiten
 
@@ -313,7 +313,7 @@ Daten langfristig und personenunabhängig zugänglich, nachnutzbar und nachprüf
 
 ********************************************************************************
 
-{{4}}
+{{3-4}}
 ********************************************************************************
 
 - Vermeiden Sie grundsätzlich Leerzeichen und sämtliche Sonderzeichen (inkl. Umlaute).
@@ -342,28 +342,28 @@ Daten langfristig und personenunabhängig zugänglich, nachnutzbar und nachprüf
 
 ********************************************************************************
 
-{{6}}
+{{4-7}}
 ********************************************************************************
 
 - Stellen Sie laufenden Nummern ausreichend viele Nullen voraus (z. B. 001 für eine Nummerierung von 1 bis 100)
 
 ********************************************************************************
 
-{{7}}
+{{5-7}}
 ********************************************************************************
 
 - Verwenden Sie pro Dateinamen nur einen Punkt -> zwischen Dateinamen und Formatsuffix (z. B. dateiname.txt)
 
 ********************************************************************************
 
-{{8}}
+{{6-7}}
 ********************************************************************************
 
 - Groß- und Kleinschreibung wird von einigen Dateisystemen als unterschiedlich betrachtet, von anderen nicht.  
 
 ********************************************************************************
 
-{{9}}
+{{7}}
 ********************************************************************************
 
 - ***Dokumentieren*** Sie Ihre Ordnerstrukturen sowie die Namenskonventionen und verwendeten Abkürzungen!
@@ -382,8 +382,8 @@ Daten langfristig und personenunabhängig zugänglich, nachnutzbar und nachprüf
 **Beispiel für eine Ordnerstruktur**
 
 <center>
-  <img src="../WiWi_ESL-2024/images/Abb_OrdnerstrukturArchproject_2022_bp.png" alt="example folder hirarchy">
-    <sub style="text-align: right;">Provided by Oliver Nakoinz</sub>
+  <img src="../WiWi_ESL-2024/images/Abb_OrdnerstrukturArchproject_2022_bp.png" width="80%" alt="example folder hirarchy">
+    <sub style="text-align: right";">Provided by Oliver Nakoinz</sub>
 </center>
 
 ********************************************************************************
