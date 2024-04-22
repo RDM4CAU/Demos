@@ -10,7 +10,7 @@ comment: Begleitende Vorlesung im Rahmen der [Einführung in Statistisches Lerne
 
 licence: cc-by
 
-logo: https://github.com/RDM4CAU/Demos/raw/main/Frauenvortragsmarathon2024/images/cau-norm-en-lilagrey-rgb.png
+icon: ../WiWi_ESL-2024/images/cau-norm-en-lilagrey-rgb.png
 
 @style
 
